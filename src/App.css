@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'CustomFont';
+  src: url('./assets/AD.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.page{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  
+}
+
+.page h1{
+  position: absolute;
+  font-family: 'CustomFont', sans-serif;
+  top: -50px;
+  transition: color 0.3s ease;
+}
+
+.page h1:hover{
+  color: rgb(15, 236, 15);
+}
+
+.next{
+  position: absolute;
+  font-family: 'CustomFont', sans-serif;
+  right: 30px;
+  font-size: 23px;
+  transition: color 0.3s ease;
+}
+
+.next:hover{
+  color: rgb(15, 236, 15);
+}

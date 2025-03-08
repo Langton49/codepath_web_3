@@ -1,0 +1,61 @@
+.card{
+    display: flex;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 60%;
+    font-size: 1.5em;
+    border: 0.5px solid #aaa;
+    border-radius: 20px;
+    background-color: #fff;
+    transition: transform 0.5s ease-in-out;
+    transition: border 0.2s ease-in-out;
+    overflow: hidden;
+    box-shadow: 0 0 15px rgba(136, 136, 136, 0.565);
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    text-align: center;
+}
+
+.card div{
+    width: 80%;
+}
+
+.card:hover{
+    border: 2px solid rgb(15, 236, 15);
+}
+
+.rotate{
+    animation: rotate 0.5s;
+    color: transparent;
+
+    .flag{
+        display: none;
+    }
+}
+
+@keyframes rotate {
+    0% {
+        transform: scale(1) rotateX(0deg);
+        box-shadow: 0 0 15px #88888890;
+    }
+    50% {
+        transform: scale(1.2);
+        box-shadow: 0 0 1px #88888890;
+    }
+    100% {
+        transform: scale(1) rotateX(180deg);
+        box-shadow: 0 0 15px #88888890;
+    }
+}
+
+.flag{
+    max-width: 70%;
+    max-height: 70%;
+    width: auto; 
+    height: auto;
+    box-shadow: 0 0 10px rgba(136, 136, 136, 0.565);
+}
