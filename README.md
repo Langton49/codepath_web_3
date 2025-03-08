@@ -1,24 +1,24 @@
-# Web Development Project 2 - *Name of App Here*
+# Web Development Project 2 - *Guess That Country*
 
-Submitted by: **Your Name Here**
+Submitted by: **Munashe Mukweya**
 
-This web app: **insert description**
+This web app: **Guess That Country is a flashcard web application that features 60 countries from around the world that may not be too familiar with most people.**
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **The title of the card set and some information about it, such as a short description and the total number of cards are displayed**
-- [ ] **A single card at a time is displayed, only showing one of the components of the information pair**
-- [ ] **A list of card pairs is created**
-- [ ] **Clicking on the card shows the corresponding component of the information pair**
-- [ ] **Clicking the next button displays a random new card**
+- [x] **The title of the card set and some information about it, such as a short description and the total number of cards are displayed**
+- [x] **A single card at a time is displayed, only showing one of the components of the information pair**
+- [x] **A list of card pairs is created**
+- [x] **Clicking on the card shows the corresponding component of the information pair**
+- [x] **Clicking the next button displays a random new card**
 
 The following **optional** features are implemented:
 
-- [ ] Cards contains images in addition to or in place of text
+- [x] Cards contains images in addition to or in place of text
 - [ ] Cards have different visual styles such as color based on their category
   - [ ] *visual style implemented*
 
@@ -33,7 +33,7 @@ Here's a walkthrough of implemented required features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LICEcap 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -45,7 +45,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Munashe Mukweya]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
