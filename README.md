@@ -2,7 +2,7 @@
 
 Submitted by: **Munashe Mukweya**
 
-This web app: **Guess That Country is a flashcard web application that features 60 countries from around the world that may not be too familiar with most people.**
+This web app: **Guess That Country is a flashcard web application that features 60 countries from around the world that may not be too familiar with most people. How many do you think you can name?**
 
 Time spent: **5** hours spent in total
 
