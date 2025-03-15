@@ -1,24 +1,24 @@
-# Web Development Project 3 - _Name of App Here_
+# Web Development Project 3 - _Guess That Country v1.0.2_
 
-Submitted by: **Your Name Here**
+Submitted by: **Munashe Mukweya**
 
-This web app: **insert description**
+This web app: **Guess That Country is a flashcard game that features 60 countries from around the world that may not be too familiar with most people. This time, users can take a crack at guessing what the country is. Users can now navigate between cards freely and shuffle the deck to randomize their order.**
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **The user can enter their guess in a box before seeing the flipside of the card**
-- [ ] **Clicking on a submit button shows visual feedback about whether the answer was correct or incorrect**
-- [ ] **A back button is displayed on the card and can be used to return to the previous card in a set sequence**
-- [ ] **A next button is displayed on the card and can be used to navigate to the next card in a set sequence**
+- [x] **The user can enter their guess in a box before seeing the flipside of the card**
+- [x] **Clicking on a submit button shows visual feedback about whether the answer was correct or incorrect**
+- [x] **A back button is displayed on the card and can be used to return to the previous card in a set sequence**
+- [x] **A next button is displayed on the card and can be used to navigate to the next card in a set sequence**
 
 The following **optional** features are implemented:
 
-- [ ] A shuffle button is used to randomize the order of the cards
-- [ ] A user's answer may be counted as correct even when it is slightly different from the target answer
+- [x] A shuffle button is used to randomize the order of the cards
+- [x] A user's answer may be counted as correct even when it is slightly different from the target answer
 - [ ] A counter displays the user's current and longest streak of correct responses
 - [ ] A user can mark a card that they have mastered and have it removed from the pool of answers as well as added to a list of mastered cards
 
@@ -30,11 +30,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with ...
+GIF created with LICEcap
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
@@ -43,11 +43,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+No challenges encountered
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Munashe Mukweya]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
