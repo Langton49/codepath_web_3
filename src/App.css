@@ -12,7 +12,14 @@
   align-items: center;
   width: 100vw;
   height: 100vh;
-  
+  gap: 10px;
+}
+
+.intro{
+  position: absolute;
+  top: 85px;
+  width: 500px;
+  text-align: center;
 }
 
 .page h1{
@@ -22,18 +29,59 @@
   transition: color 0.3s ease;
 }
 
+
 .page h1:hover{
-  color: rgb(15, 236, 15);
+  color: rgb(0, 54, 230);
 }
 
-.next{
+.next,
+.prev{
   position: absolute;
   font-family: 'CustomFont', sans-serif;
-  right: 30px;
   font-size: 23px;
   transition: color 0.3s ease;
 }
 
-.next:hover{
-  color: rgb(15, 236, 15);
+.next:hover,
+.prev:hover,
+.submitAns:hover,
+.shuffle:hover{
+  color: rgb(0, 54, 230);
+}
+
+.next{
+  right: 30px;
+}
+
+.prev{
+  left: 30px;
+}
+
+.submitAns,
+.shuffle{
+  font-family: 'CustomFont', sans-serif;
+  transition: color 0.3s ease;
+  text-align: center;
+}
+
+.userInput{
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  bottom: 6%;
+  gap: 10px;
+}
+
+.userInput p{
+  font-family: 'CustomFont', sans-serif;
+  font-size: 25px;
+}
+
+.submitAns.correct{
+  background-color: rgb(8, 255, 8);
+}
+
+.submitAns.incorrect{
+  background-color: rgb(255, 0, 0);
 }
