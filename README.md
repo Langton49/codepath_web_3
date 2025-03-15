@@ -1,4 +1,4 @@
-# Web Development Project 3 - _Guess That Country v1.0.2_
+# Web Development Project 3 - _🗺 Guess That Country v1.0.2_
 
 Submitted by: **Munashe Mukweya**
 
